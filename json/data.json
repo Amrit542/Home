@@ -1,0 +1,17 @@
+{
+    "claim_form_data": {
+      "abn_org": "78283230262",
+      "claim_type_value": "5",
+      "claim_amount": "300",
+      "purpose": "Test claim for Talas",
+      "participant_id": "10008560828",
+      "sector_commercail": "100"
+    },
+    
+    "claim_search_data": {
+      "amount": "300",
+      "claim_type_value": "5",
+      "participant_id": "10008560828",
+      "participant_name": "Christian Lemke"
+    }
+  }
